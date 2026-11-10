@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://posada-paris.vercel.app/sitemap.xml

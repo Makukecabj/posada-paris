@@ -1,0 +1,452 @@
+{
+  "business": {
+    "name": "Posada Paris",
+    "short_name": "Posada Paris",
+    "tagline": "Posada Paris · Ecuador",
+    "description": "Posada Paris: pileta, parrilla, WiFi y la mejor ubicación en Ecuador.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Ecuador · Calle 24 y General Enrique",
+    "title_line1": "Bienvenido a",
+    "title_em": "Posada Paris",
+    "title_line2": "",
+    "subtitle": "Tu refugio en Ecuador después de recorrer todo el día."
+  },
+  "location": {
+    "address": "Calle 24 y General Enrique, 241550 Salinas, Ecuador",
+    "district": "Ecuador",
+    "city": "Ecuador",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Calle 24 y General Enrique, 241550 Salinas, Ecuador, Ecuador",
+    "map_embed": "https://maps.google.com/maps?q=Calle+24+y+General+Enrique%2C+241550+Salinas%2C+Ecuador%2C+Ecuador&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Ecuador. A pasos de todo lo que necesitás.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/593995745735",
+    "phone": "+593995745735",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Posada+Paris/data=!4m10!3m9!1s0x902e0e11cc735ed3:0xbe4ba6c55841db!5m2!4m1!1i2!8m2!3d-2.206771!4d-80.9730083!16s%2Fg%2F11b73lsb13!19sChIJ015zzBEOLpAR20FYxaZLvgA?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Posada+Paris/data=!4m10!3m9!1s0x902e0e11cc735ed3:0xbe4ba6c55841db!5m2!4m1!1i2!8m2!3d-2.206771!4d-80.9730083!16s%2Fg%2F11b73lsb13!19sChIJ015zzBEOLpAR20FYxaZLvgA?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes están al frente",
+    "title": "Un poco de Posada Paris.",
+    "paragraphs": [
+      "Posada Paris es un hostel familiar en Ecuador, atendido por sus dueños. Ofrecemos habitaciones privadas y compartidas, WiFi, cocina equipada, pileta y parrilla. Estamos en zona centro, cerca de todo lo que necesitás para recorrer la ciudad."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Respondemos al toque por WhatsApp",
+    "Reservá directo, sin comisión ni sorpresas",
+    "Atención como en casa, posta"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Habitaciones copadas",
+      "description": "Limpias, frescas, con todo lo básico para estar bien.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Internet gratis",
+      "description": "Para mandar fotos a la familia y no pierdas contacto.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Bien situados",
+      "description": "Todo lo turístico queda cerca, a pie.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    },
+    {
+      "author": "Nicolás S.",
+      "rating": 5,
+      "text": "Perfecto para desconectar. Tranquilo, limpio y con espacios para compartir con otros viajeros."
+    },
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿La zona es segura?",
+      "answer": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+    },
+    {
+      "question": "¿Hay calefacción?",
+      "answer": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Posada Paris",
+    "copyright": "© 2026 Posada Paris. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Posada Paris",
+        "short_name": "Posada Paris",
+        "tagline": "Posada Paris · Accommodation",
+        "description": "Everything you need to travel easy, at Posada Paris.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Ecuador · Calle 24 y General Enrique",
+        "title_line1": "Enjoy",
+        "title_em": "Posada Paris",
+        "title_line2": "in Ecuador",
+        "subtitle": "WiFi, equipped kitchen, terrace and pool. Everything nearby."
+      },
+      "about": {
+        "eyebrow": "What we do",
+        "title": "Let us tell you about Posada Paris.",
+        "paragraphs": [
+          "Posada Paris is your base in Ecuador. Pool, BBQ, WiFi, kitchen and an ideal location to explore everything. We're a family hostel with all the vibes you need to travel easy."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Ecuador. Walk everywhere from here."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there a pool?",
+          "answer": "Yes! In summer it's the best spot to cool off after sightseeing."
+        },
+        {
+          "question": "Can I pay by card?",
+          "answer": "Ask us, we have several payment options to make it easy for you."
+        },
+        {
+          "question": "Is there a kitchen to use?",
+          "answer": "Yes, a full kitchen so you can cook whatever you want."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Fast messages, clear answers",
+        "Book directly with us",
+        "We know every corner of the area"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        }
+      ],
+      "footer": {
+        "description": "Posada Paris",
+        "copyright": "© 2026 Posada Paris. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Posada Paris",
+        "description": "Un hostel con onda en Ecuador. Conocé Posada Paris.",
+        "url": "",
+        "telephone": "+593995745735",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Posada+Paris/data=!4m10!3m9!1s0x902e0e11cc735ed3:0xbe4ba6c55841db!5m2!4m1!1i2!8m2!3d-2.206771!4d-80.9730083!16s%2Fg%2F11b73lsb13!19sChIJ015zzBEOLpAR20FYxaZLvgA?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Calle 24 y General Enrique, 241550 Salinas, Ecuador",
+          "addressLocality": "Ecuador",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Habitaciones copadas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Internet gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Bien situados",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La zona es segura?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay calefacción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
